@@ -1,0 +1,14 @@
+{
+  "feeder": "ieee37mod",
+  "source": "data/sources/ercotsup/cdr.00013499.0000000000000000.20261009.232000.HOURLYLFvsACTUALGEN55.csv",
+  "decimals": 6,
+  "sha256": "9cb68a674b7f67b778ab11d2bb1d0c68c69d50c3e2a7f0066837461140059b31",
+  "archive": "data/sources/ercot",
+  "reference": "calendar-year peak",
+  "reference_year": 2026,
+  "peak_mw": 91133.727696,
+  "kept_days": [
+    "2026-10-08",
+    "2026-10-09"
+  ]
+}

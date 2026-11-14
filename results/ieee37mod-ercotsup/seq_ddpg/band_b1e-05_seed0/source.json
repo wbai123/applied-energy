@@ -1,0 +1,5 @@
+{
+  "train_dataset": "ieee37mod-ercot",
+  "algorithm": "seq_ddpg",
+  "run": "band_b1e-05_seed0"
+}
